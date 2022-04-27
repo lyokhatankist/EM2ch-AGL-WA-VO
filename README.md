@@ -1,4 +1,4 @@
-# EM2ch-AGL-WMA-VO
+# EM2ch-AGL-WA-VO
 Worms Armageddon Voiceovers for EM2ch Authentic Gaming League
 
 #### ```ICAS-14```
