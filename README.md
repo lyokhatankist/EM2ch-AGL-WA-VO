@@ -8,7 +8,7 @@ Worms Armageddon Voiceovers for EM2ch Authentic Gaming League
 #### ```Gnome627```
 >Emissarus, SemenMaximEmileShamile
 #### ```Z-120 Virus```
->HTA
+>HTA, SHoWWII russian
 #### ```GreJorg```
 >Vagrantus
 #### ```__nEmPoBu4__```
