@@ -5,6 +5,8 @@ Worms Armageddon Voiceovers for EM2ch Authentic Gaming League
 >ImperialGuardSergeant, LordGeneralSturnn, T3485Crew
 #### ```Traygen```
 >Bydloblyat
+#### ```FunnyScout```
+>805, american pilot, t72, zhuzhdiky, сру, coach
 #### ```Gnome627```
 >Emissarus, SemenMaximEmileShamile
 #### ```Z-120 Virus```
