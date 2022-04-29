@@ -13,5 +13,7 @@ Worms Armageddon Voiceovers for EM2ch Authentic Gaming League
 >HTA, SHoWWII russian
 #### ```GreJorg```
 >Vagrantus
+#### ```Mr. Player```
+>Wot
 #### ```__nEmPoBu4__```
 >BF1942German, BF1942Russian, Lukashenko, Rozmovlyalka, Samus (not Aran), SCoP Merc, SCoP Military, VeryBigZalupa, ZalupaAmerikanskaya
