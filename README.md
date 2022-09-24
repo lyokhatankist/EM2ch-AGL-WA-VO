@@ -13,6 +13,8 @@ Worms Armageddon Voiceovers for EM2ch Authentic Gaming League
 >gachi, BogdanBlyat
 #### ```Z-120 Virus```
 >HTA, SHoWWII russian, AGK
+#### ```стакан```
+>Zelenskiy
 #### ```GreJorg```
 >Vagrantus
 #### ```Carsen```
