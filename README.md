@@ -12,7 +12,7 @@ Worms Armageddon Voiceovers for EM2ch Authentic Gaming League
 #### ```Apocalypse007```
 >gachi, BogdanBlyat
 #### ```Z-120 Virus```
->HTA, SHoWWII russian, AGK
+>HTA, SHoWWII russian, HTA Arcade
 #### ```стакан```
 >Zelenskiy
 #### ```GreJorg```
