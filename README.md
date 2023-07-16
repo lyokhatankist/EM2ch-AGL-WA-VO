@@ -14,7 +14,7 @@ Worms Armageddon Voiceovers for EM2ch Authentic Gaming League
 #### ```Z-120 Virus```
 >HTA, SHoWWII russian, HTA Arcade, COD7BO ru (eng)
 #### ```стакан```
->Zelenskiy, Snail
+>Zelenskiy, Snail, akter
 #### ```Joomer```
 >Vagrantus
 #### ```Carsen```
