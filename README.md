@@ -2,13 +2,13 @@
 Worms Armageddon Voiceovers for EM2ch Authentic Gaming League
 
 #### ```ICAS-14```
->ImperialGuardSergeant, LordGeneralSturnn, T3485Crew, DurakskyRussky
+>ImperialGuardSergeant, LordGeneralSturnn, T3485Crew, DurakskyRussky, HighFleet
 #### ```Traygen```
 >Bydloblyat
 #### ```FunnyScout```
 >805, american pilot, t72, zhuzhdiky, сру, coach
 #### ```Gnome627```
->Emissarus, SemenMaximEmileShamile, MisterPutn, CluckinBell, NixelPixel, PostalDude, OscarCockchera
+>Emissarus, SemenMaximEmileShamile, MisterPutn, CluckinBell, NixelPixel, PostalDude, OscarCockchera, PMCWagner
 #### ```Apocalypse007```
 >gachi, BogdanBlyat
 #### ```Z-120 Virus```
